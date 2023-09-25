@@ -1,1 +1,33 @@
-
+body{
+    background-color: rgb(82, 164, 136);
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right:0;
+    margin-left:0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: rgb(65, 128, 106);
+    color: antiquewhite;
+    font-size: 50px;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+}
+.principal{
+    background-color: rgb(84, 179, 179);
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.amor{
+    width: 800px;
+}
+.rodape{
+    background-color: rgb(65, 128, 106);
+    color: antiquewhite;
+    font-size: 50px;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+}
